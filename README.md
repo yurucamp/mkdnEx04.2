@@ -13,7 +13,7 @@ The flight, in a [Gulfstream G650ER ultra-long-range jet](https://www.cnn.com/tr
 hours, 39 minutes and 38 seconds, with an average speed of 860.95 km/hr (534.97 mph).
 ![jet](jet.jpg)
 
-'The crew pose in front of the craft.'
+>'The crew pose in front of the craft.'
 ![crew](crew.jpg)
 
 
